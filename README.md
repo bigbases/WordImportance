@@ -5,7 +5,7 @@ The source code is composed of a fine-tuning model based on the WI-projected lay
 For fine-tuning, these are the modification of run_glue.py, run_squad.py, and run_swag.py from transformer version 4.20.1.
 For model, these are the modification of modeling_bert.py, modeling_electra.py, and modeling_roberta.py from transformer version 4.20.1.
 
-This code implements the methodology described in the paper titled: "Enhancing performance of transformer-based models in natural language understanding through word importance embedding". The paper is accepted at **Knowledge-Based Systems** ([<https://www.sciencedirect.com/science/article/abs/pii/S0950705124010384/>])
+This code implements the methodology described in the paper titled: "Enhancing performance of transformer-based models in natural language understanding through word importance embedding". The paper is accepted at **Knowledge-Based Systems** (<https://www.sciencedirect.com/science/article/abs/pii/S0950705124010384/>)
 
 ## News
 [2024.11.25] WPM got accepted to Knowledge-Based Systems!
