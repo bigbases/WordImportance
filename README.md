@@ -4,6 +4,9 @@
 For fine-tuning, these are the modification of run_glue.py, run_squad.py, and run_swag.py from transformer version 4.20.1.
 For model, these are the modification of modeling_bert.py, modeling_electra.py, and modeling_roberta.py from transformer version 4.20.1.
 
+## News
+[2024.11.25] WPM got accepted to Knowledge Based Systems!
+
 ## Usage
 1. Copy each modeling_"model".py file to the corresponding model directory within the transformer library.
 2. Run the run_"task".py file.
