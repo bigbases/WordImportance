@@ -1,5 +1,5 @@
 ## Description
-This is the source code used for the paper "Enhancing Transformer-based Models’ Natural Language Understanding based on Word Importance Investigation (under revision)."
+This is the source code used for the paper "Enhancing Transformer-based Models’ Natural Language Understanding based on Word Importance Investigation"
 The source code is composed of a fine-tuning model based on the WI-projected layer and a WI validation part.
 
 For fine-tuning, these are the modification of run_glue.py, run_squad.py, and run_swag.py from transformer version 4.20.1.
